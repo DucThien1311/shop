@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="menfashionEntities-Web.config Connection String" description="menfashionEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.Model1.csdl|res://*/Models.Model1.ssdl|res://*/Models.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;Data Source=Admin-PC\SQLEXPRESS;Initial Catalog=doanweb;Integrated Security=True;TrustServerCertificate=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\E-commerce_ASPNET-main1\\Project\\ShopOnline\\ShopOnline\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='menfashionEntities']/@connectionString" />
+  </parameter>
+</parameters>
